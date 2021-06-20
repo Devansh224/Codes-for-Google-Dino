@@ -45,6 +45,6 @@ To set the game back to normal
 
 Visit this link to view the video
 
-[Cheatcodes for Google Dino](https://www.youtube.com/channel/UCEp_w7UrpMTjq912doUMPrw/videos)
+[Cheatcodes for Google Dino](https://github.com/Devansh224/Codes-for-Google-Dino)
 
   
